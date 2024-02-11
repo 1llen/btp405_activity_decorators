@@ -34,4 +34,8 @@ def primeTest(n):
 #test memoization
 primeTest(500000)
 primeTest(500001)
-primeTest(500000)   
+primeTest(500002) 
+primeTest(500000)
+primeTest(500001)
+primeTest(500003)
+
